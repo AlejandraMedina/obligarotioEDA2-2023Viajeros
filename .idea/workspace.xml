@@ -5,25 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d08d548c-9cdf-4c48-82a2-fdc0253eb209" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lib/apiguardian-api-1.1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/junit-jupiter-5.8.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/junit-jupiter-api-5.8.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/junit-jupiter-engine-5.8.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/junit-jupiter-params-5.8.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/junit-platform-commons-1.8.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/junit-platform-engine-1.8.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/opentest4j-1.2.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dominio/package-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/interfaz/Retorno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/interfaz/Sistema.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/interfaz/TipoConexion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/interfaz/TipoViajero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/interfaz/package-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sistema/ImplementacionSistema.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sistema/package-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/sistema/AuxAsserciones.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/sistema/TestSistemaAFuturo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/sistema/TestUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +14,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "AlejandraMedina"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="3d4294d1-98b4-4c10-8740-c2f7d176121e" />
+        <option name="url" value="https://github.com/AlejandraMedina/obligarotioEDA2-2023Viajeros.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -70,6 +66,19 @@
       <option name="presentableId" value="Default" />
       <updated>1696098649210</updated>
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1696100923579</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1696100923579</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
 </project>
